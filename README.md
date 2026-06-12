@@ -1,4 +1,4 @@
-Please check architecture.png (for details somewhat) if this is too long/boring for you to read etc. (though it is quite short)
+Please check arch.png (for details somewhat) if this is too long/boring for you to read etc. (though it is quite short)
 
 Part 1 - Introduction
 
