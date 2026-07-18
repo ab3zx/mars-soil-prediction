@@ -4,7 +4,6 @@ Part 1 - Introduction
 
 The core idea behind this project is to create accurate soil dynamics for the entirety of Mars to help mitigate punctures, breakages, sinkages and other malfunctions to rovers such as Curiosity and Perseverance. Naturally, these rovers are not explorers in the traditional sense of the word. It seems obvious that if NASA wanted to design an exploratory rover, it certainly could and most assuredly, this paper will not help the people who work there. But so then what is this? and why is this?
 
-Well, because we do not need NASA. We have Python. We just simulate Mars and the rover both.
 
 Part 2 - The Idea (Step by Step short version)
 
